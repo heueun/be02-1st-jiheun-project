@@ -1,6 +1,6 @@
 # 강지흔
 
-* <img src ="C:\Users\Playdata\OneDrive\Pictures\picture">  
+* <img src="img\pc.jpg">  
 
 * [블로그](https://velog.io/@heueun)
 
