@@ -1,6 +1,6 @@
 # 강지흔
 
-* <img src="img\pc.jpg" width="100" height="100"/>  
+* <img src="img\pc.jpg" width="200" height="200"/>  
 
 * [블로그](https://velog.io/@heueun)
 
